@@ -382,6 +382,24 @@ article.post {
   display:block;
 }
 
+article#cv .entry {
+ h2 {
+   margin-bottom: 0;
+   + hr {
+     margin-top: 0;
+   }
+ }
+
+ h3 {
+   font-weight: bold;
+   margin-bottom: 0;
+ }
+
+ p {
+   margin: 0;
+ }
+}
+
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
