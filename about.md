@@ -6,7 +6,7 @@ permalink: /about/
 
 Hi, my name is **Lucas Cinelli** and I'm a Master's student at Federal University of Rio de Janeiro (UFRJ) in [Electric Engineering Program](http://www.pee.ufrj.br) of [Instituto Alberto Luiz Coimbra de Pós-Graduação e Pesquisa em Engenharia](http://coppe.ufrj.br) (COPPE).
 
-My research interest is in the study and application of **deep learning** techniques, specially in *image segmentation*. Currently, I'm focusing on strategies to perform anomaly detection in surveillance videos. 
+My research interest is in the study and application of **deep learning** techniques, specially in *image segmentation*. Currently, I'm focusing on strategies to perform anomaly detection in surveillance videos.
 */
 I made this blog to share my knowledge that I've been acquiring through my masters, and doing that, I hope I can simplify the process of creating a speaker recognition for others researchers.
 
@@ -18,6 +18,8 @@ Enjoy! :)
 For more academic information, please access my curriculum at [**Lattes**](http://lattes.cnpq.br/3918567147423648) platform.
 
 ### Contact
+
+lpcinelli [at] poli [dot] ufrj [dot] br
 
 #### Location
 
