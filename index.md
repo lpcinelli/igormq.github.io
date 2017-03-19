@@ -22,9 +22,9 @@ lpcinelli [at] poli [dot] ufrj [dot] br
 
 Av. Horacio Macedo, 2030
 
-Technology Center, Block H, room 221 and Block I, room 146
+Centro de Tecnologia, Block H, room 221 and Block I, room 146
 
-University City, Rio de Janeiro - RJ
+Cidade Universitária Rio de Janeiro - RJ
 
 CEP 21941-598.
 
