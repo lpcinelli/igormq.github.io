@@ -10,7 +10,7 @@ My research interest is in the study and application of **deep learning** techni
 
 ### More information
 
-For more academic information, please access my curriculum at [**Lattes**](c) platform.
+For more academic information, please access my curriculum at [**Lattes**](http://lattes.cnpq.br/3918567147423648) platform.
 
 ### Contact
 
