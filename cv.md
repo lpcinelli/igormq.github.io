@@ -49,7 +49,7 @@ Advisor: Eduardo A. B. da Silva
 
 *Federal University of Rio de Janeiro, UFRJ, Rio de Janeiro, Brazil*
 
-Title: [Anomaly detection in surveillance videos using deep residual networks] [to be published]
+Title: Anomaly detection in surveillance videos using deep residual networks [to be published]
 
 Advisors: Eduardo A. B. da Silva and Lucas Arrabal Thomaz
 
