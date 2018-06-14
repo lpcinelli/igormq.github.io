@@ -21,7 +21,7 @@ E-mail: lpcinelli [at] poli [dot] ufrj [dot] br
 
 ## Personal data
 ---
-Brazilian, male, single, 24 years old.
+Brazilian, male, single, 25 years old.
 
 Born in January 23, 1993 in Rio de Janeiro, RJ - Brazil.
 
@@ -98,23 +98,31 @@ Title: Security for Future Networks (SecFuNet)
 
 Activities: Development of unified authentication methods (OpenID) through NFC smart card.
 
-
 ## Language
+
 ---
+
 * Portuguese: native
 * English: proficient
 * French: proficient
 
-
 ## Research interests
+
 ---
-*	Signal processing
+
+* Signal processing
 * Image processing
-*	Machine learning
-*	Deep learning
+* Machine learning
+* Deep learning
+* Unsupervised learning
+* Video prediction
 
 ## Publications
+
 ---
 
 1. Papers published in conferences
+
+    * CINELLI, L. P.; THOMAZ, L. A. ; SILVA, A. F. ; SILVA, E. A. B. ; NETTO, S. L. . [Foreground Segmentation for Anomaly Detection in Surveillance Videos Using Deep Residual Networks](https://www.researchgate.net/publication/319681001_Foreground_Segmentation_for_Anomaly_Detection_in_Surveillance_Videos_Using_Deep_Residual_Networks). In: Simpósio Brasileiro de Telecomunicações, 2017, São Pedro - SP. Anais do Simpósio Brasileiro de Telecomunicações e Processamento de Sinais, 2017. p. 914-918.
+
     * CINELLI, L. P.; DUARTE, O. C. M. B. . [Unified Authentication with Smart Cards via Near Field Communication](https://www.gta.ufrj.br/ftp/gta/TechReports/CiDu13.pdf). In: Second Workshop on Network Virtualization and Intelligence for the Future Internet, 2013, Angra dos Reis - Rio de Janeiro
