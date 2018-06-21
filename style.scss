@@ -243,6 +243,15 @@ nav {
 // .main
 //
 
+.image {
+  text-align: center;
+
+  .image-caption {
+      color: $lightGray;
+      margin-top: $spacing-unit / 3;
+  }
+}
+
 .posts > .post {
   padding-bottom: 2em;
   border-bottom: 1px solid $lightGray;
