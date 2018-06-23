@@ -243,13 +243,15 @@ nav {
 // .main
 //
 
-.image {
+.image-wrapper {
   text-align: center;
-
-  .image-caption {
-      color: $lightGray;
-      margin-top: $spacing-unit / 3;
-  }
+  color: #808080;
+  font-style: italic;
+  font-size: small;
+  text-indent: 0;
+  // padding: 0.5 em;
+  margin-top: 2em;
+  margin-bottom: 2em;
 }
 
 .posts > .post {
