@@ -1,4 +1,8 @@
 <figure class="image-wrapper">
-    <img src="{{site.url}}/images/{{ include.file }}" alt="{{ include.alt }}">
+    {% if include.file %}
+    <img src="{{site.url}}/images/{{ include.file }}" alt="{{ include.alt }}" width="{{ include.width }}"
+        height="{{ include.height }}"> {% elsif include.url %}
+    <img src="{{ include.url }}" alt="{{ include.alt }}" width="{{ include.width }}"
+        height="{{ include.height }}"> {% endif %}
     <figcaption>{{ include.description }}</figcaption>
 </figure>
