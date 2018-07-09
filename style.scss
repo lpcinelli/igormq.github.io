@@ -19,7 +19,7 @@ html {
 
 body {
 	background: $white;
-  font: 16px $helvetica;
+  font: 17px $helvetica;
   color: $darkGray;
   line-height: 1.5;
   font-weight: 300;
@@ -27,7 +27,7 @@ body {
 
 .container {
   margin: 0 auto;
-  max-width: 740px;
+  max-width: 1040px;
   padding: 0 10px;
   width: 100%;
 }
@@ -47,22 +47,23 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  font-size: 30px;
+  font-size: 34px;
+  // font-weight: bold;
   a {
     color: inherit;
   }
 }
 
 h2 {
-  font-size: 24px;
+  font-size: 28px;
 }
 
 h3 {
-  font-size: 20px;
+  font-size: 22px;
 }
 
 h4 {
-  font-size: 18px;
+  font-size: 20px;
   color: $gray;
 }
 
@@ -245,9 +246,9 @@ nav {
 
 .image-wrapper {
   text-align: center;
-  color: #808080;
+  color: $gray;
   font-style: italic;
-  font-size: small;
+  font-size: 15px;
   text-indent: 0;
   // padding: 0.5 em;
   margin-top: 2em;
