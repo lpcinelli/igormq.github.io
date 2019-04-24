@@ -49,7 +49,7 @@ Advisor: Eduardo A. B. da Silva
 
 *Federal University of Rio de Janeiro, UFRJ, Rio de Janeiro, Brazil*
 
-Title: Anomaly detection in surveillance videos using deep residual networks [to be published]
+Title: [Anomaly detection in surveillance videos using deep residual networks](http://monografias.poli.ufrj.br/monografias/monopoli10020332.pdf)
 
 Advisors: Eduardo A. B. da Silva and Lucas Arrabal Thomaz
 
@@ -87,6 +87,16 @@ Note: Spent two years studying Electrical Engineering with emphasis on electroni
 
 ## Research Projects
 ---
+
+
+### 2018 - Present
+
+Applied research project with Petrobras
+
+*Signal, Multimedia and Telecommunications (SMT)*
+
+Title: Signal Processing Applied to Predicting, Detecting and Diagnosing Failures during Oil Well Drilling
+
 
 ### 2013 - 2014
 
