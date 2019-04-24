@@ -6,7 +6,7 @@ permalink: /
 
 Hi, my name is **Lucas Cinelli** and I'm a Master's student at Federal University of Rio de Janeiro (UFRJ) in [Electric Engineering Program](http://www.pee.ufrj.br) of [Instituto Alberto Luiz Coimbra de Pós-Graduação e Pesquisa em Engenharia](http://coppe.ufrj.br) (COPPE).
 
-My research interest is in the study and application of **deep learning** techniques, specially in *image segmentation*. Currently, I'm focusing on strategies to perform anomaly detection in surveillance videos.
+My research interest is in the study and application of **deep learning** techniques, specially in *image segmentation*. Currently, I'm focusing on Bayesian approximate inference and generative models for videos.
 
 ### More information
 
