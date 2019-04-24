@@ -30,7 +30,7 @@ Born in January 23, 1993 in Rio de Janeiro, RJ - Brazil.
 ## Short biography
 ---
 
-Born in 1993, I obtained my B.Sc in Electronic and Computer Engineering at UFRJ along with my Engineer's Degree delivered by the french institution SUPÉLEC, where I spent 2 years as an international exchange program student and had a scholarship financed by the Brazilian government. During this time, I worked for 6 months as an intern at the french company PARROT Drones actively participating in the Computer Vision Team. I am currently doing my M.Sc. in Electrical Engineering with emphasis on Signal Processing program at COPPE/UFRJ, which I began in 2017, affiliated to the Signal, Multimedia and Telecommunications (SMT) laboratory in UFRJ, where I conduct my research. In this same laboratory, I developed B.Sc. final project on anomaly detection of surveillance videos using Deep Learning. My main interests include Signal Processing applied to video/images, Machine Learning and Deep Learning.
+Born in 1993, I obtained my B.Sc in Electronic and Computer Engineering at UFRJ along with my Engineer's Degree delivered by the french institution SUPÉLEC, where I spent 2 years as an international exchange program student and had a scholarship financed by the Brazilian government. During this time, I worked for 6 months as an intern at the french company PARROT Drones actively participating in the Computer Vision Team. I am currently doing my M.Sc. in Electrical Engineering with emphasis on Signal Processing program at COPPE/UFRJ, which I began in 2017, affiliated to the Signal, Multimedia and Telecommunications (SMT) laboratory in UFRJ, where I conduct my research. In this same laboratory, I developed B.Sc. final project on anomaly detection of surveillance videos using Deep Learning. My main interests include Deep Learning and Bayesian Approximate Inference with emphasis on videos/images.
 
 ## Education
 ---
@@ -110,12 +110,12 @@ Activities: Development of unified authentication methods (OpenID) through NFC s
 
 ---
 
-* Signal processing
-* Image processing
 * Machine learning
 * Deep learning
 * Unsupervised learning
 * Video prediction
+* Bayesian Neural Networks
+* Approximate Inference
 
 ## Publications
 
@@ -123,6 +123,10 @@ Activities: Development of unified authentication methods (OpenID) through NFC s
 
 1. Papers published in conferences
 
+    * AFONSO, BRUNO M. ; CINELLI, LUCAS P. ; THOMAZ, LUCAS A. ; DA SILVA, ALLAN F. ; DA SILVA, EDUARDO A. B. ; NETTO, SERGIO L. . [Moving-Camera Video Surveillance in Cluttered Environments Using Deep Features](https://ieeexplore.ieee.org/document/8451540). In: 2018 25th IEEE International Conference on Image Processing (ICIP), 2018, Athens. 2018 25th IEEE International Conference on Image Processing (ICIP), 2018. p. 2296. 
+    
+    * CINELLI, L. P.; CHAVES, G. S. ; LIMA, MARKUS V. S. . [Vessel Classification through Convolutional Neural Networks using Passive Sonar Spectrogram Images](https://www.researchgate.net/publication/332158639_Vessel_Classification_through_Convolutional_Neural_Networks_using_Passive_Sonar_Spectrogram_Images). In: XXXVI SIMPÓSIO BRASILEIRO DE TELECOMUNICAÇÕES E PROCESSAMENTO DE SINAIS, 2018, Campina Grande. SIMPÓSIO BRASILEIRO DE TELECOMUNICAÇÕES E PROCESSAMENTO DE SINAIS, 2018. p. 1-5.
+    
     * CINELLI, L. P.; THOMAZ, L. A. ; SILVA, A. F. ; SILVA, E. A. B. ; NETTO, S. L. . [Foreground Segmentation for Anomaly Detection in Surveillance Videos Using Deep Residual Networks](https://www.researchgate.net/publication/319681001_Foreground_Segmentation_for_Anomaly_Detection_in_Surveillance_Videos_Using_Deep_Residual_Networks). In: Simpósio Brasileiro de Telecomunicações, 2017, São Pedro - SP. Anais do Simpósio Brasileiro de Telecomunicações e Processamento de Sinais, 2017. p. 914-918.
 
     * CINELLI, L. P.; DUARTE, O. C. M. B. . [Unified Authentication with Smart Cards via Near Field Communication](https://www.gta.ufrj.br/ftp/gta/TechReports/CiDu13.pdf). In: Second Workshop on Network Virtualization and Intelligence for the Future Internet, 2013, Angra dos Reis - Rio de Janeiro
